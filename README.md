@@ -1,0 +1,1 @@
+# AllowNSFW-BetterDiscord-Plugin
